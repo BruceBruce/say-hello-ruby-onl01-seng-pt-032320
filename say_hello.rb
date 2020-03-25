@@ -1,4 +1,4 @@
 def say_hello(Ruby Programmer)
-  puts "Hello #{}!"
+  puts "Hello !"
 end
 say_hello(Kent Beck)
